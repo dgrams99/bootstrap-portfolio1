@@ -1,0 +1,90 @@
+.col-2{
+background-color: cadetblue;
+top: 3.5rem;
+padding: .5rem 1rem;
+margin-left: 4.7rem;
+left: 0rem;
+padding: 0px 0px 0px 0px;
+text-align: center;
+}
+.homebar{
+    background-color: white;
+}
+body{
+    background-image: url(images/qbkls.png);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container-fluid{
+   width: 960px;
+    background-color: white;
+   margin-top: 50px;
+  margin-bottom: 90px;
+}
+#image1{
+    float: left;
+    padding: 1rem 1rem;
+}
+
+footer {
+    bottom: -19px;
+    width: 100%;
+    position: fixed;
+    height: height-footer;
+    background-color: cadetblue;
+    text-align: center;
+   font-size: 10px;
+}
+#extra-footer{
+    top: 715px;
+    bottom: -19px;
+    width: 150%;
+    position: fixed;
+    height: 5px;
+    background-color: darkgray;
+    text-align: center;
+}
+.container{
+  
+    
+}
+.form-control-submit{
+    background-color: cadetblue;
+}
+h2{
+    color: cadetblue;
+}
+.card-body{
+    width: 140px;
+    padding: 0px;
+    font-size: 12px;
+    background-color: cadetblue;
+    
+}
+.card{
+    width: 140px;
+    top: 20px;
+    margin-right: 20rem;
+}
+#image1{
+    margin-left: -31px;
+    margin-bottom: -5px;
+}
+#image2{
+    
+    margin-left: -30px;
+}
+#image3{
+    margin-left: -45px;
+    margin-top: 8px;
+}
+#image4{
+    
+}
+.Portfolio1{
+  margin-left: 149px;
+}
+.Portfolio2{
+    margin-left: 449px;
+    margin-top: -346px;
+  }
